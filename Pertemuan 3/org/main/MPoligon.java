@@ -1,3 +1,9 @@
+/**
+ * File : MPoligon.java 08/03/2023
+ * Penulis : M. Hafiz Attariq
+ * Deskripsi : driver class untuk poligon dan persegi panjang serta segitiga
+*/
+
 package org.main;
 
 import org.bangundatar.*;
